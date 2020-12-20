@@ -6,7 +6,7 @@ Accessible Web App is a refactored live web application written in HTML to promo
 
 ## Installation
 
-No special installation required! Fork repository from [https://github.com/winoza/accessible-web-app.git](https://github.com/winoza/accessible-web-app.git)
+No special installation required!
 
 ## Usage
 
