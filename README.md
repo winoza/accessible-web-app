@@ -10,7 +10,7 @@ No special installation required!
 
 ## Usage
 
-![](images/demo-app.png)
+![](assets/images/demo-app.png)
 
 Use the Accessible Web App as reference for an application with semantic HTML & CSS elements in the source code that follow a logistical and clear structure.
 
